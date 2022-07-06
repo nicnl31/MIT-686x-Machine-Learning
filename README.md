@@ -3,6 +3,8 @@ This repository is where I share the contents I did in MIT's 6.86x Machine Learn
 
 This includes codes written both by myself and by the course staff.
 
+The codes will be updated as I complete them.
+
 Course URL: https://www.edx.org/course/machine-learning-with-python-from-linear-models-to
 
 ## About this course
